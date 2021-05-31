@@ -1,0 +1,1 @@
+(()=>{var o={648:o=>{o.exports.O="THIS IS FROM source1.js FILE",o.exports.h=function(){for(let o=0;o<5;o++)console.warn(o)}}},r={};function e(t){var s=r[t];if(void 0!==s)return s.exports;var n=r[t]={exports:{}};return o[t](n,n.exports,e),n.exports}(()=>{const o=e(648).O,r=e(648).h;console.log(o),r()})()})();
